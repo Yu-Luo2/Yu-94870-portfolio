@@ -9,4 +9,4 @@ Hello:) My name is Yu Luo.I'm from MSPPM Flagship program.
 I hope I can learn practical data-design-balance skills and elementrary programming skills.
 
 # Portfolio
-Here's where all of my cool data visualization will go: 
+Here's where all of my cool data visualization will go: https://yu-luo2.github.io/Yu-94870-portfolio/.
