@@ -6,4 +6,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/3750256" data-url="https://flo.uri.sh/visualisation/3750256/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# Second visualization in Flourish - 
+# Second visualization in Flourish - Bubble chart
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3750637" data-url="https://flo.uri.sh/visualisation/3750637/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
