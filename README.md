@@ -12,5 +12,3 @@ I hope I can learn practical data-design balance skills and elementrary programm
 Here's where all of my cool data visualization will go: https://yu-luo2.github.io/Yu-94870-portfolio/.
 
 [This is assignment 2](/dataviz2.md)
-
-<iframe src="https://data.oecd.org/chart/65FX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65FX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
