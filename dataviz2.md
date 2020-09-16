@@ -8,3 +8,11 @@
 
 # Second visualization in Flourish - Bubble chart
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3750637" data-url="https://flo.uri.sh/visualisation/3750637/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+# Comparison between 3 methods of visualizatoion shown above
+## Bar chart:
+Bar chart shows the contrast of the values among countries in a straightforward and clear way. Each bar represents one country and the value of each country is displayed in an ascending order from left to right. However, bar chart can only show values in one year.
+
+## Grid of line chart:
+Grid line shows multiple graphs for each country at the same time.
