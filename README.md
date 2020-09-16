@@ -11,4 +11,4 @@ I hope I can learn practical data-design balance skills and elementrary programm
 # Portfolio
 Here's where all of my cool data visualization will go: https://yu-luo2.github.io/Yu-94870-portfolio/.
 
-[This is assignment 2](/dataviz2.md)
+[This is assignment 2: Visualizing government debt](/dataviz2.md)
