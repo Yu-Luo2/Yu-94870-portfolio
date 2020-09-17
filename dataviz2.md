@@ -24,4 +24,4 @@ Bubble chart can both show trend for each country and comparisons among countrie
 
 
 # Working with Tableau
-https://prod-useast-a.online.tableau.com/t/yus/views/Assignment2/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1280px; height: 612px;'><object class='tableauViz' width='1280' height='612' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;yus' /><param name='name' value='Assignment2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
