@@ -21,3 +21,7 @@ Grid of line charts display multiple graphs for each country in time order toget
 
 ## Bubble chart:
 Bubble chart can both show trend for each country and comparisons among countries. For this exercise, I group all countries by the continents to limit color and eye travel. Each chart displays the debt-to-GDP ratios of all countries in one year, with the size of bubble representing the value of the ratio. And countries located in the same continent are aligned in the same line and have the same color. To avoid crowdness, I put more detailed information into popups. Healine and subtitle hint at the logic of these charts.
+
+
+# Working with Tableau
+https://prod-useast-a.online.tableau.com/t/yus/views/Assignment2/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
