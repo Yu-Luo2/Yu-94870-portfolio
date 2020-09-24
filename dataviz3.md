@@ -3,3 +3,7 @@
 
 # Step three: wireframe a solution
 ![Explanation of data viz](2.png)
+
+# Step four: Test the solution
+## Friend 1
+Q1:
