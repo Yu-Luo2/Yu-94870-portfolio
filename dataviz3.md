@@ -14,7 +14,7 @@ Q3: Why actual cases number decreased too much fast than the trend. what the def
 
 Q4: People, scholars, government officer
 
-Q5:Ddenote which line is cumulative trend, whichline is cases number, and add detailed definition of data name.
+Q5: Denote which line is cumulative trend, whichline is cases number, and add detailed definition of data name.
 
 
 ## Friend 2
@@ -33,4 +33,6 @@ Q5: No.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3825334" data-url="https://flo.uri.sh/visualisation/3825334/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Written summary
-This visualization is includede beacause it give each country a seperate graph so that people can find the informaiton of each country more quickly.
+I includede two visualizations, beacause I think these two together can so that people can find the informaiton of each country more quickly.
+Based on my friends 1's feedback - "Denote which line is cumulative trend, whichline is cases number, and add detailed definition of data name.", I decided to create a visualization with bar charts showing the total confirmed cases for each country on the left, and corresponding line charts showing the trend on the right. And I will replace the variable - "existing cases" with "cumulative deaths", because friend 1 found it confusing. However, I couldn't find such a visualization after trying many templates. Therefore, I splited one visualization into two. The bar chart can give audience a very straightforward perception that which countries have the most number of COVID-19 confirmed cases. I also use different colors to differentiate countries belonging to different continents. All these measures aim to increase the instant accessibility of information needed. And the grid of line charts give each country a seperate graph showing its trend and other important information such as "new cases", "new deaths", "cumulative cases" and "specific date" in the popups. With these two visualizations, people can find the detailed and complete information as quick as possible.
+
