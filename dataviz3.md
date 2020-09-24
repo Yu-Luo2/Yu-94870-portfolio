@@ -27,3 +27,9 @@ Q3: Why are the total cases in some countries higher than the actual cases?
 Q4: Donald Trump
 
 Q5: No.
+
+# Step five: Build your solution
+
+
+# Written summary
+This visualization is includede beacause it give each country a seperate graph so that people can find the informaiton of each country more quickly.
