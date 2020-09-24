@@ -17,7 +17,7 @@ Q4: People, scholars, government officer
 Q5:Ddenote which line is cumulative trend, whichline is cases number, and add detailed definition of data name.
 
 
-## Friend 1
+## Friend 2
 Q1: The current growth trend of COVID-19 cases in various countries and the comparison of detected and actual cases.
 
 Q2: The cumulative increase in cases and the number of cases in each country are consistent.
