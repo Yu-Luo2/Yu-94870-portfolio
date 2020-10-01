@@ -16,6 +16,8 @@ Finally, I will give a conclusion and show the anticipated call to action.
 
 # The data
 ## Data sources:
-kaggle datasets download -d catamount11/who-is-resposible-for-global-warming
-![Explanation of data viz](CO2 Emissions By Country.csv)
+kaggle datasets download -d catamount11/who-is-resposible-for-global-warming (CO2 Emissions By Country.csv)
+kaggle datasets download -d rishidamarla/global-rise-in-temperatures-in-each-country (Global Land TemperaturesBy Country.csv)
+https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018 (GDP per Capita By Country.xlsx)
+
 
