@@ -13,6 +13,7 @@ Fourthly, I will show the correlation between CO2 emissions and GDP of each coun
 Finally, I will give a conclusion and show the anticipated call to action.
 
 # Initial sketches
+<div class="flourish-embed flourish-table" data-src="visualisation/3887621" data-url="https://flo.uri.sh/visualisation/3887621/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # The data
 ## Data sources:
