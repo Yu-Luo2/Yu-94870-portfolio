@@ -14,3 +14,5 @@ Here's where all of my cool data visualization will go: https://yu-luo2.github.i
 [This is assignment 2: Visualizing government debt](/dataviz2.md)
 
 [This is assignment 3&4: Critique by Design](/dataviz3.md)
+
+[Part I: Final project](/final_project_Yu Luo.md)
