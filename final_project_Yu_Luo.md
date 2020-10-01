@@ -16,10 +16,11 @@ Finally, I will give a conclusion and show the anticipated call to action.
 ## C02 Emissions by Country:
 <div class="flourish-embed flourish-table" data-src="visualisation/3887621" data-url="https://flo.uri.sh/visualisation/3887621/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## C02 Emissions and Average Temperature by Country
+## C02 Emissions and Average Temperature by Country:
 ![Explanation of data viz](4.png)
 
-
+## C02 Emissions and GDP per Capita by Country:
+![Explanation of data viz](5.png)
 
 # The data
 ## Data sources:
