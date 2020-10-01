@@ -17,4 +17,5 @@ Finally, I will give a conclusion and show the anticipated call to action.
 # The data
 ## Data sources:
 kaggle datasets download -d catamount11/who-is-resposible-for-global-warming
+![Explanation of data viz](CO2 Emissions By Country.csv)
 
