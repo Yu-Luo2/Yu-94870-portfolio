@@ -1,4 +1,12 @@
-# The story
+# Development history of my final project
+## Change in Theme:
+At first, I wanted to analyze the relationship among CO2 emssions, average teperature rise in and GDP per capita of each country worldwidely. However, it was very difficult to find complete and accurate data and was also difficult to present them well with limited time. Hence, I choose to analyze the data from a specific country - China instead.
+
+## Change in Variables:
+After finishing 2 planned data visualizations, I realized it would be helpful for targeted policy implementation in China if I can visualize which sectors make the most CO2 emissions. Therefore, I add a variable - CO2 emissions by sector and make a data visualization of proportions of CO2 emissions from different sectors in China.
+
+## New summary of my story:
+I want to find out the relationship among "CO2 Emissions" in China and "Annually Average Temperature" in China, and "GDP" in China. I will also analyze proportions of CO2 emissions each sector accounts for to better make practical suggestions. The expexted result is that CO2 emissions brings economic growth, but causes global warming.
 
 # Wireframe
 ![Explanation of data viz](Wireframe1.png)
