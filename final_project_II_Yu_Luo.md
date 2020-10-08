@@ -6,9 +6,9 @@ At first, I wanted to analyze the relationship among CO2 emssions, average teper
 After finishing 2 planned data visualizations, I realized it would be helpful for targeted policy implementation in China if I can visualize which sectors make the most CO2 emissions. Therefore, I add a variable - CO2 emissions by sector and make a data visualization of proportions of CO2 emissions from different sectors in China.
 
 ## New data sources:
-Carbon dioxide emissions in China from 1960 to 2018: worldbank.org
-GDP in China from 1960 to 2018: worldbank.org
-Annually Average Temperature in China from 1971 to 2014: worldbank.org
+1. Carbon dioxide emissions in China from 1960 to 2018: worldbank.org
+2. GDP in China from 1960 to 2018: worldbank.org
+3. Annually Average Temperature in China from 1971 to 2014: worldbank.org
 
 ## New summary of my story:
 I want to find out the relationship among "CO2 Emissions" in China and "Annually Average Temperature" in China, and "GDP" in China. I will also analyze proportions of CO2 emissions each sector accounts for to better make practical suggestions. The expexted result is that CO2 emissions brings economic growth, but causes global warming.
