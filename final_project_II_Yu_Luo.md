@@ -1,2 +1,2 @@
 # Presentation (Wireframe)
-![Explanation of data viz](New Wireframe 1.png)
+![Explanation of data viz](Wireframe1.png)
