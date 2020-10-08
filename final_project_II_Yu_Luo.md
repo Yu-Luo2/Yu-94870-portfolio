@@ -34,5 +34,8 @@ I want to find out the relationship among "CO2 Emissions" in China and "Annually
 ## Goals/Questions
 ![Explanation of data viz](7.png)
 
+## Taregt audience
+![Explanation of data viz](9.png)
+
 ## Interview findings
 ![Explanation of data viz](8.png)
