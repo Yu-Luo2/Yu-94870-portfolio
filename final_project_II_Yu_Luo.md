@@ -31,4 +31,5 @@ I want to find out the relationship among "CO2 Emissions" in China and "Annually
 <div class="flourish-embed flourish-chart" data-src="visualisation/3947207" data-url="https://flo.uri.sh/visualisation/3947207/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # User research and interviews
-
+## Goals/Questions
+![Explanation of data viz](7.png)
