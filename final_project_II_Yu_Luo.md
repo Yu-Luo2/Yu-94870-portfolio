@@ -7,7 +7,8 @@
 ![Explanation of data viz](Storyboard.jpg)
 
 # Data visualizations
-## DataViz 1 (I couldn't sign in Tableau Online successfully and I've sent IT request to Tableau, so I will put a picture below and update the page by embing the data visualization when the problem is fixed):
+## DataViz 1 
+(I couldn't sign in Tableau Online successfully and I've sent IT request to Tableau, so I will put a picture below and update the page by embing the data visualization when the problem is fixed):
 ![Explanation of data viz](Storyboard.jpg)
 
 ## DataViz 2:
