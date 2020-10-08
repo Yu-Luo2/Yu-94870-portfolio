@@ -33,3 +33,6 @@ I want to find out the relationship among "CO2 Emissions" in China and "Annually
 # User research and interviews
 ## Goals/Questions
 ![Explanation of data viz](7.png)
+
+## Interview findings
+![Explanation of data viz](8.png)
