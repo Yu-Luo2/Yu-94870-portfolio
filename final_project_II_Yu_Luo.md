@@ -21,9 +21,7 @@ I want to find out the relationship among "CO2 Emissions" in China and "Annually
 
 # Data visualizations
 ## DataViz 1:
-(I couldn't sign in Tableau Online successfully and I've sent IT request to Tableau, so I will put a picture below and update the page by embing the data visualization when the problem is fixed)
-![Explanation of data viz](6.jpg)
-![Explanation of data viz](TableauOnlineError.jpg)
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 677px;'><object class='tableauViz' width='1536' height='677' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;yus' /><param name='name' value='FinalProjectDataViz1&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
 ## DataViz 2:
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3945981" data-url="https://flo.uri.sh/visualisation/3945981/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
