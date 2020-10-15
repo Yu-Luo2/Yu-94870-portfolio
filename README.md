@@ -18,3 +18,7 @@ Here's where all of my cool data visualization will go: https://yu-luo2.github.i
 [This is Part I: Final project](/final_project_I_Yu_Luo.md)
 
 [This is Part II: Final project](/final_project_II_Yu_Luo.md)
+
+[This is Part III: Final project](/final_project_III_Yu_Luo.md)
+
+[This is GitHub final project page](/Github_final_project_page_Yu_Luo.md)
