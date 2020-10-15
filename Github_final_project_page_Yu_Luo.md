@@ -111,6 +111,8 @@ My initial topic did not have a clear story outline. It was just about visualizi
 # Link to my updated Github repository
 Here's my updated Github repository: https://yu-luo2.github.io/Yu-94870-portfolio/.
 
+# Link to my story on Shorthand
+Here's my story on Shorthand: https://carnegiemellon.shorthandstories.com/--co2-emissions-brings-economic-growth-to-china--at-the-cost-of--global-warming/index.html
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Links and references
