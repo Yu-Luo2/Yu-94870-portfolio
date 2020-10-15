@@ -1,6 +1,5 @@
 # The idea (Part I) [This is Part I: Final project](/final_project_I_Yu_Luo.md)
 
-
 # Outline
 ## Summary:
 I want to find out and visualize the relationship between "CO2 Emissions per Capita of Each Country" and "Global Rise in Temperatures in Each Country", and "CO2 Emissions of Each Country" and ""GDP per Capita of Each Country". The expexted result is CO2 emissions brings economic growth, but causes global warming. 
@@ -92,3 +91,37 @@ I paln to add a few senteces before the 3rd visualization to introduce the reaso
 
 
 # Final data story (Part III) [This is Part III: Final project](/final_project_III_Yu_Luo.md)
+
+
+
+
+# Links and references
+## Paper:
+Azomahou, Theophile, Laisney, Francois and Nguyen Van, Phu, (2006), Economic development and CO2 emissions: A nonparametric panel approach, Journal of Public Economics, 90, issue 6-7, p. 1347-1363. https://doi.org/10.1016/j.jpubeco.2005.09.005
+
+## Data sources:
+1. Carbon dioxide emissions in China from 1960 to 2018: https://www.worldbank.org/
+2. GDP in China from 1960 to 2018: https://www.worldbank.org/
+3. Annually Average Temperature in China from 1971 to 2014: https://www.worldbank.org/
+
+## Images:
+1. Image downloaded from a news website in a text
+Fig.1. Paul, Ridden (2019) IPCC looks to the land in fight against climate change, [painting]. Retrieved October 14, 2020 from the NEW ATLAS website: https://newatlas.com/ipcc-climate-change-land-report/60964/.
+2. Image downloaded from Germany's central environmental authority website in a text
+Fig.2. Teteline (2018) Greenhouse gas emissions rose again in 2016, [photograph]. Retrieved October 14, 2020 from Umwelt Bundesamt website:  https://www.umweltbundesamt.de/en/press/pressinformation/greenhouse-gas-emissions-rose-again-in-2016
+3. Image downloaded from American technology website in a text
+Fig.3. Levi, Bianco (2020) The COVID-19 crisis could show us how to cure our congested cities, [photograph]. Retrieved October 14, 2020 from VentureBeaat website:  https://venturebeat.com/2020/03/22/the-covid-19-crisis-could-show-us-how-to-cure-our-congested-cities/
+4. Image downloaded from a news website in a text
+Fig.4. Brett, Hemmings (2020) Here’s how climate change may make Australia’s wildfires more common, [photograph]. Retrieved October 14, 2020 from ScienceNews website:  https://www.sciencenews.org/article/how-climate-change-may-make-australia-wildfires-more-common
+5. Image downloaded from a newspaper website in a text
+Fig.5. Paul, Nicklen (2017) No, Global Warming Isn't Killing Off The Polar Bears, [photograph]. Retrieved October 14, 2020 from Investor's Business Daily website:  https://www.investors.com/politics/editorials/no-global-warming-isnt-killing-off-the-polar-bears/
+6. Image downloaded from a nonprofit institution website in a text
+Fig.6. Climate Change, [photograph]. Retrieved October 14, 2020 from WHOI website:  https://www.whoi.edu/know-your-ocean/ocean-topics/climate-ocean/global-warming/
+7. Image downloaded from a nonprofit organization website in a text
+Fig.7. Anna, Godeassi (2017) How You Can Help Fight Climate Change, [painting]. Retrieved October 14, 2020 from NRDC website:  https://www.nrdc.org/stories/how-you-can-help-fight-climate-change
+8. Image downloaded from a running magazine website in a text
+Fig.8. Madeleine, Kelly (2019) What’s the ideal temperature for running? , [painting]. Retrieved October 15, 2020 from Running CANADIAN website:  https://runningmagazine.ca/sections/training/whats-the-ideal-temperature-for-running/
+9. Image downloaded from an American news website in a text
+Fig.9. David, Roberts (2019) Pulling CO2 out of the air and using it could be a trillion-dollar business, [painting]. Retrieved October 15, 2020 from Vox website: https://www.vox.com/energy-and-environment/2019/9/4/20829431/climate-change-carbon-capture-utilization-sequestration-ccu-ccs
+10. Image downloaded from an independent think tank website in a text
+Fig.10. Runder, Tisch (2018) Is GDP obsolete? Alternative measures of economic and social progress, [painting]. Retrieved October 15, 2020 from DOC RESEARCH INSTITUTE website: https://doc-research.org/de/our-events/gdp-obsolete-alternative-measures-economic-social-progress/
