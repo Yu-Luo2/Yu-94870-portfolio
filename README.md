@@ -23,11 +23,5 @@ Here's where all of my cool data visualization will go: https://yu-luo2.github.i
 
 [This is GitHub final project page](/Github_final_project_page_Yu_Luo.md)
 
-This is a link to my final data story: <script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/--co2-emissions-brings-economic-growth-to-china--at-the-cost-of--global-warming/"><h1>
+This is a link to my final data story: https://carnegiemellon.shorthandstories.com/--co2-emissions-brings-economic-growth-to-china--at-the-cost-of--global-warming/index.html
 
-CO2 Emissions Brings Economic Growth To China, At The Cost of 
-Global Warming</h1><p>
-
-
-By Yu Luo</p></div>
