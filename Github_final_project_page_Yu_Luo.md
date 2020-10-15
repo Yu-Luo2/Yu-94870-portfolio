@@ -40,8 +40,8 @@ I plan use all 3 data sources listed above. I will extract the data from 1960 to
 6. Find other materials needed online and organize all materials needed to build my story using Shorthand.
 7. Test my Shorthand page with friends and modify.
 
-#
-#
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Design and user research (Part II) [This is Part II: Final project](/final_project_II_Yu_Luo.md)
 
 # Development history of my final project
@@ -88,13 +88,13 @@ I want to find out the relationship among "CO2 Emissions" in China and "Annually
 ## Plan on changing:
 I paln to add a few senteces before the 3rd visualization to introduce the reasons of making this visualization and its function. Hopefully, with these explanation, audiences can understand the stroy better and know the purpose after the presentation.
 
-# 
-#
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Final data story (Part III) [This is Part III: Final project](/final_project_III_Yu_Luo.md)
 
 
-#
-#
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Links and references
 ## Paper:
 Azomahou, Theophile, Laisney, Francois and Nguyen Van, Phu, (2006), Economic development and CO2 emissions: A nonparametric panel approach, Journal of Public Economics, 90, issue 6-7, p. 1347-1363. https://doi.org/10.1016/j.jpubeco.2005.09.005
